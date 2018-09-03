@@ -16,4 +16,3 @@ Some basics with git
 	
 	a. We can verify that the changes are correct before overwriting master
 
-This is a test change.
