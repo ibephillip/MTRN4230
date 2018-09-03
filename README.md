@@ -15,3 +15,5 @@ Some basics with git
 4. Submit a PULL REQUEST (which merges yours into master) 
 	
 	a. We can verify that the changes are correct before overwriting master
+
+This is a test change.
